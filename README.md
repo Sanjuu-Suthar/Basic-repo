@@ -1,2 +1,2 @@
 # Basic-repo
-author - sanjuu
+author - sanjuu suthar
